@@ -1,12 +1,12 @@
 # Task_5
-Task 5: Elevate Labs: Exploratory Data Analysis (EDA)
-1: Data Loading:
+#Task 5: Elevate Labs: Exploratory Data Analysis (EDA)
+#1: Data Loading:
   .info(),.describe(),.value_counts()
-2: visual exploration
+#2: visual exploration
   sns.heatmap(),sns.pairplot(),histograms(age,fare),boxplots(age,fare),scatterplot(age vs fare)
-3: observations
+#3: observations
   Writtern insights for each visual to interpret trend and anomalies
-4: Summary
+#4: Summary
   Key findings:
     Survival rate vary significatly accross passenger classes.
     Age and afre show some correlation with survival
